@@ -2,5 +2,5 @@ Since there's still many PCL(Portable Class library) project around the web, so 
 
 About .Net Standard Compatibiltiy, check: 
 
-https://github.com/dotnet/standard/blob/master/docs/versions.md  
+https://docs.microsoft.com/en-us/dotnet/standard/net-standard  
 https://docs.microsoft.com/en-us/nuget/schema/target-frameworks
